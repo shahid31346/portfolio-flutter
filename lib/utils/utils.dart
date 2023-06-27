@@ -15,7 +15,7 @@ class StaticUtils {
   static const String blackWhitePhoto = 'assets/photos/black-white.png';
 
   // work
-  static const String dsc = 'assets/work/dsc.png';
+  static const String suvastutech = 'assets/work/suvastutech.png';
   static const String sastaticket = 'assets/work/st.png';
   static const String university = 'assets/work/uos.png';
   static const String fullterIsb = 'assets/work/flutterIsl.png';
